@@ -1,0 +1,1165 @@
+[ { 
+                  question : " Pour ou contre l'Union Européenne ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 1 , Wokisme : 0 , Nationalisme : -1 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -1 , Wokisme : 0 , Nationalisme : 1 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le César du meilleur film attribué à J'Accuse de Roman Polanski ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : -0.6 , Nationalisme : 0 , Boboisme : 0.3 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0.6 , Nationalisme : 0 , Boboisme : -0.3 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le fait pour un état d'intervenir militairement hors de ses frontières ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0.1 , Wokisme : 0 , Nationalisme : 0.5 , Boboisme : 0.1 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -0.1 , Wokisme : 0 , Nationalisme : -0.5 , Boboisme : -0.1 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la reconstruction à l'identique de Notre-Dame-de-Paris ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : -0.4 , Nationalisme : 0.8 , Boboisme : -0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0.4 , Nationalisme : -0.8 , Boboisme : 0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Booba ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : -0.2 , Nationalisme : 0.2 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0.2 , Nationalisme : -0.2 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le nucléaire ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 1 , Boboisme : -0.95 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : -1 , Boboisme : 0.95 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'ouverture de la PMA aux couples de lesbiennes ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 1.5 , Nationalisme : -0.3 , Boboisme : 1.3 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : -1.5 , Nationalisme : 0.3 , Boboisme : -1.3 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les espaces interdits aux hommes ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0.9 , Nationalisme : -0.1 , Boboisme : 0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : -0.9 , Nationalisme : 0.1 , Boboisme : -0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Amazon ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 1.3 , Wokisme : 0 , Nationalisme : -2.1 , Boboisme : 0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -1.3 , Wokisme : 0 , Nationalisme : 2.1 , Boboisme : -0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les préliminaires ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 1.4 , Nationalisme : -0.2 , Boboisme : 0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : -1.4 , Nationalisme : 0.2 , Boboisme : -0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la collapsologie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -0.1 , Wokisme : 0 , Nationalisme : 0.3 , Boboisme : 0.7 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0.1 , Wokisme : 0 , Nationalisme : -0.3 , Boboisme : -0.7 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le survivalisme ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0.2 , Wokisme : 0 , Nationalisme : 0.4 , Boboisme : 0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -0.2 , Wokisme : 0 , Nationalisme : -0.4 , Boboisme : -0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les parcs naturels ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -0.1 , Wokisme : 0 , Nationalisme : 0.3 , Boboisme : 0.9 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0.1 , Wokisme : 0 , Nationalisme : -0.3 , Boboisme : -0.9 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le droit de tuer des loups ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 1 , Wokisme : -0.3 , Nationalisme : -0.8 , Boboisme : -0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -1 , Wokisme : 0.3 , Nationalisme : 0.8 , Boboisme : 0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le droit à l'autogestion pour les communautés indigènes jusqu'au meurtre ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : -0.7 , Boboisme : 0.8 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0.7 , Boboisme : -0.8 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le revenu universel ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -1.7 , Wokisme : 0 , Nationalisme : 2.7 , Boboisme : 1 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 1.7 , Wokisme : 0 , Nationalisme : -2.7 , Boboisme : -1 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les pronoms non genrés ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 1 , Nationalisme : -0.5 , Boboisme : 0.9 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : -1 , Nationalisme : 0.5 , Boboisme : -0.9 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le droit pour l'Etat de faire fermer une école privée hors contrat ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -0.6 , Wokisme : 1.1 , Nationalisme : 0.9 , Boboisme : 2.3 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0.6 , Wokisme : -1.1 , Nationalisme : -0.9 , Boboisme : -2.3 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le fait de faire chanter la Marseillaise à des élèves ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -0.4 , Wokisme : -0.7 , Nationalisme : 1.8 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0.4 , Wokisme : 0.7 , Nationalisme : -1.8 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'ajout d'une contextualisation obligatoire avant le visionnage d'oeuvres cinématographiques ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 1.6 , Nationalisme : -0.8 , Boboisme : 1.4 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : -1.6 , Nationalisme : 0.8 , Boboisme : -1.4 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la création d'un monopole public de l'énergie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : -0.6 , Wokisme : 0 , Nationalisme : 1.6 , Boboisme : -0.5 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0.6 , Wokisme : 0 , Nationalisme : -1.6 , Boboisme : 0.5 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la vente d'armes à des états en guerre, ouverte ou à distance (ex : l'Arabie Saoudite) ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0.3 , Wokisme : 0 , Nationalisme : 0.7 , Boboisme : -0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -0.3 , Wokisme : 0 , Nationalisme : -0.7 , Boboisme : 0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la vente d'armes à des états non démocratiques (ex : l'Egypte) ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0.4 , Wokisme : 0 , Nationalisme : 0.6 , Boboisme : -0.3 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -0.4 , Wokisme : 0 , Nationalisme : -0.6 , Boboisme : 0.3 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le printemps arabe ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : -0.4 , Nationalisme : 0.5 , Boboisme : 0.2 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0.4 , Nationalisme : -0.5 , Boboisme : -0.2 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les repas halal à la cantine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : -0.5 , Boboisme : 0.5 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0.5 , Boboisme : -0.5 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les écoles privées ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0.8 , Wokisme : 0 , Nationalisme : -0.8 , Boboisme : -0.3 },
+                  { id: "2", text: "Contre" ,  Liberalisme : -0.8 , Wokisme : 0 , Nationalisme : 0.8 , Boboisme : 0.3 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la taxation des GAFAM ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le démantèlement des GAFAM ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la prise en compte du vote blanc dans les scores électoraux ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la démocratie participative ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la mise en oeuvre de nouvelles méthodes de vote ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le vote par correspondance ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'ouverture des magasins le dimanche ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'enseignement de l'arabe à l'école publique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la légalisation des psychotropes au niveau du tabac et de l'alcool ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le Royaume-Uni dans l'Union Européenne ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre un ministère dédié à l'identité nationale ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la mise en place d'un impôt sur la fortune ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Joe Biden ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'obligation du port du masque en extérieur ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'indépendance de l'Écosse ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Wejdene ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la guillottine pour les aristocrates ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le rôle positif de la colonisation ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la Francafrique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre quota genré ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre quota ethnique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre discrimination positive ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre toilette pour les personnes transgenres ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les personnes transgenres dans les compétitions sportifs ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'allaitement ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre crédit impôt recherche ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la chasse ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'agriculture biologique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le vin en biodynamie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le veganisme ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre exctinction rebellion ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la peine de mort ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre jury populaire ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre avortement ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la manif pour tous ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre euthanasie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre déchéance de nationalité ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre armer la police municipale ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre internement des fichiers S ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les grenades de désencerclement ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la reprise reggae de la Marseillaise ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le mot chocolatine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le mot poche ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les réseaux pédo-satanistes ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre QAnon ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre 4chan ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre légiférer sur la fin de l'anonymat sur internet ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre légiférer sur la publication des images de policier ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre interdir le collectif justice pour Traoré ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la notion de violence policière ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre BHL ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le sionisme ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les colines en Palestine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre voyager en avion ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre interdiction des voyages en avion si une alternative écolo existe ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les propos mysogines dans les chansons ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les concerts de Bertrand Contat ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Louis-Ferdinand Celine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre L'emprisonnement d'Alain Soral ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre interdiction du geste de la quenelle ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Jean-Michel Aulas ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'arbitrage vidéo ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Benzema en équipe de France de football ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Raymond Domenech ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'enseignement des langues régionales ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la vaccination oboigatoire pour la COVID-19 ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la naturalisation en masse des sans-papiers ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les frais de scolarité pourles étudiants étrangers ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la fin des licences de taxi ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la fin des notaires ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre privatisation des missions puboiques ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre privatisation de la SNCF ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la crème dans les carbonara ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la notion d'appropriation culturelle ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les films de comédie français ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Kev Adams ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre couper les spaghetti ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la pizza à l'ananas ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les chaînes de télévision finacées par un état étranger ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre fêtrer Noël ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les crêches dans les batîments ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'ivresse publique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les sapins de Noël naturels ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les Velib ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les trotinettes électriques en libre-service ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le cinéma d'auteur ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les frères musulmans ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les dictateurs éclairés ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la Crimée russe ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Greta Thunberg ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les corrida ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le mode de production du foie-gras ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les travailleurs détachés ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre IKEA ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le grand remplacement ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la personne qui a giflé Manuel Valls ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le bouc de Manuel Valls ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les talonettes de Sarkozy ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Carla Bruni ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Huawei ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la fin des Guignols de l'info ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la start-up nation ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le fichage éthnique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le pastis-coca ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la raclette en été ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Nantes en Bretagne ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Le Mont Saint Michel en Normandie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre L'indépendance de la Corse ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les bobos ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Les dernières chansons de Renaud ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'extradiction de Julian Assenge ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les lanceurs d'alerte ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les bombes atomiques sur le Japon en 1945 ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le désarmement nucléaire ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'autotune ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les pailles en plastique ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le papier peint ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la statue de Colbert ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la prostitution ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les slips de bain ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les trains de nuit ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'économie Marxiste ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Bernard Henri Levy ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Eric Zemmour ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la méritocratie ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le vernis à ongle à gel ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre porter des bretelles ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre visiter un pays sans connaître la langue ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la fessée sur les enfants ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la fessée sur les adultes ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le salon de l'agriculture ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les poils sous les bras chez les filles ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre l'épilation de torse pour les hommes ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Norman fait des vidéos ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre PNL ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Benjamin Biolay ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Juan Branco ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Francis Lalanne ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le pass sanitaire ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la vaccination contre l'hépatite B ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les études de genre ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la Révolution française ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Questions pour un champion ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la peinture abstraite ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Rachida Dati ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Anne Hidalgo ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre dévoiler sa grossesse à moins de trois mois ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Linky ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre garder ses ex sur les réseaux sociaux ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la pilule masculine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les expatriés français aux Etats-Unis ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Donald Trump ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Jul ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Beyoncé ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Francis Cabrel ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les pains au chocolat prononcé chocolatine ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le Whitewashing ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les adaptations Netflix ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le Black face ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les roux ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre la Seine Saint-Denis ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre Mediapart ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les talibans ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le voile ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le burkini ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les ronds de serviette ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre le mariage ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, { 
+                  question : " Pour ou contre les parisiens ",  
+                  answers: [
+                  { id: "1", text: "Pour" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  { id: "2", text: "Contre" ,  Liberalisme : 0 , Wokisme : 0 , Nationalisme : 0 , Boboisme : 0 },
+                  ]
+                  }, ];
