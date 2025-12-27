@@ -61,7 +61,7 @@ class Quiz extends React.Component {
  
   state = {
     correctCount: 0,
-    totalCount: this.props.navigation.getParam("questions", []).length,
+    totalCount: this.props.route.params.questions.length,
     totalPlayer: this.props.inputs.array.length,
     activeQuestionIndex: 0,
     activePlayerIndex : 0,
@@ -94,8 +94,8 @@ class Quiz extends React.Component {
 
   nextQuestion = () => {
     this.setState(state => {
-       nextPlayerIndex = state.activePlayerIndex + 1;
-       nextIndex = state.activeQuestionIndex;
+       let nextPlayerIndex = state.activePlayerIndex + 1;
+       let nextIndex = state.activeQuestionIndex;
 
       if (nextPlayerIndex >= state.totalPlayer) {
 
@@ -119,7 +119,7 @@ class Quiz extends React.Component {
   };
 
   render() {
-    const questions = this.props.navigation.getParam("questions", []);
+    const questions = this.props.route.params.questions
     const question = questions[this.state.activeQuestionIndex];
 
     const players = this.props.inputs.array;
@@ -131,7 +131,7 @@ class Quiz extends React.Component {
       <View
         style={[
           styles.container,
-          { backgroundColor: this.props.navigation.getParam("color") }
+          { backgroundColor: this.props.route.params.colors}
         ]}
       >
         <StatusBar barStyle="light-content" />

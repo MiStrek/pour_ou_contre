@@ -1,77 +1,87 @@
-/**
- * React Native StyleSheet for the project, Dynamic Text-Input for React Native.
- *
- * @author Michael David Gill <michaelgill1969@gmail.com>
- * @license
- * Copyright 2019 Michael David Gill
- *
- * Licensed under the Apache License, Version 2.0 (the "License"); you may not
- * use this file except in compliance with the License.  You may obtain a copy
- * of the License at
- *
- *  http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
- * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
- * License for the specific language governing permissions and limitations under
- * the License.
- */
+import { StyleSheet, Dimensions } from 'react-native';
 
-import { StyleSheet } from 'react-native'
+const { width, height } = Dimensions.get('window');
 
 export const colors = {
-  dark: 'steelblue',
-  error: 'firebrick',
-  light: 'aliceblue',
-  transparent: 'transparent'
-}
+  franceBlue: '#002395',  // Bleu drapeau officiel
+  franceRed: '#ED2939',   // Rouge drapeau officiel
+  white: '#FFFFFF',
+  overlay: 'rgba(0, 35, 149, 0.75)', // Overlay bleu pour lisibilité
+  textSecondary: 'rgba(255, 255, 255, 0.85)',
+};
 
-export const styles = StyleSheet.create(
-  {
-    button: {
-      backgroundColor: colors.dark,
-      margin: 5
-    },
-    container: {
-      alignItems: 'center',
-      justifyContent: 'center'
-    },
-    error: {
-      color: colors.error,
-      fontSize: 12
-    },
-    row: {
-      color: "#fff",
-      alignItems: 'center',
-      flexDirection: 'row',
-      width: '90%'
-    },
-    title: {
-      margin: 5
-    },
-    transparent: {
-      color: colors.transparent,
-      fontSize: 12
-    },
-  text: {
-    color: "#fff",
-    fontSize: 20,
-    textAlign: "center",
-    letterSpacing: -0.02,
-    fontWeight: "600"
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: colors.franceBlue,
+  },
+  backgroundImage: {
+    flex: 1,
+    width: width,
+    height: height,
+  },
+  overlay: {
+    flex: 1,
+    backgroundColor: colors.overlay,
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 50,
+  },
+  topSection: {
+    alignItems: 'center',
+    marginTop: height * 0.1,
+  },
+  logo: {
+    width: 180,
+    height: 180,
+    marginBottom: 20,
+    borderRadius: 20,
   },
   title: {
-    color: "#fff",
-    fontSize: 25,
-    textAlign: "center",
-    letterSpacing: -0.02,
-    fontWeight: "600"
+    color: colors.white,
+    fontSize: 36,
+    fontWeight: '900',
+    textAlign: 'center',
+    textTransform: 'uppercase',
+    letterSpacing: 2,
   },
-  safearea: {
-    flex: 1,
-    justifyContent: "space-between",
-    backgroundColor: "#36B1F0",
+  subtitle: {
+    color: colors.textSecondary,
+    fontSize: 18,
+    textAlign: 'center',
+    fontStyle: 'italic',
+    marginTop: 10,
+    paddingHorizontal: 30,
+  },
+  buttonContainer: {
+    width: '100%',
+    alignItems: 'center',
+    marginBottom: 40,
+  },
+  button: {
+    backgroundColor: colors.white,
+    paddingVertical: 18,
+    paddingHorizontal: 40,
+    borderRadius: 50,
+    width: width * 0.8,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.3,
+    shadowRadius: 15,
+    elevation: 8,
+  },
+
+  buttonText: {
+    color: colors.franceBlue,
+    fontSize: 20,
+    fontWeight: '800',
+    textAlign: 'center',
+  },
+  accentLine: {
+    width: 60,
+    height: 4,
+    backgroundColor: colors.franceRed,
+    marginTop: 15,
+    borderRadius: 2,
   }
-  }
-)
+});

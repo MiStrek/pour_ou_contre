@@ -1,74 +1,79 @@
-import * as React from 'react'
-import { Provider } from 'react-redux'
-import { ConfigureStore } from './redux/configureStore'
-import Main from './screens/Players'
-import { createAppContainer } from "react-navigation";
-import { createStackNavigator } from "react-navigation-stack";
+import * as React from 'react';
+import { Provider } from 'react-redux';
+import { ConfigureStore } from './redux/configureStore';
+
+// Nouveaux imports de navigation
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+// Tes écrans
+import Main from './screens/Players';
 import QuizIndex from "./screens/QuizIndex";
 import Quiz from "./screens/Quiz";
-import QuizResult from "./screens/Results"
+import QuizResult from "./screens/Results";
 import Welcome from './screens/Welcome';
 import Rules from './screens/Rules';
 
+const store = ConfigureStore();
+const Stack = createNativeStackNavigator();
 
-const store = ConfigureStore()
+export default function App() {
+  return (
+    <Provider store={store}>
+      <NavigationContainer>
+        <Stack.Navigator 
+          initialRouteName="Welcome"
+          screenOptions={{
+            headerTitleAlign: 'center', // Optionnel : centre les titres sur Android comme sur iOS
+          }}
+        >
+          <Stack.Screen 
+            name="Welcome" 
+            component={Welcome} 
+            options={{ title: "Pour ou Contre" }} 
+          />
+          
+          <Stack.Screen 
+            name="Rules" 
+            component={Rules} 
+            options={{ title: "Règles" }} 
+          />
 
+          <Stack.Screen 
+            name="Mainscreen" 
+            component={Main} 
+            options={{ title: "Joueurs" }} 
+          />
 
-const MainStack = createStackNavigator({
-  Welcome: {
-    screen: Welcome,
-    navigationOptions: {
-      headerTitle: "Pour ou Contre"
-    }
-  },
-  Rules: {
-    screen: Rules,
-    navigationOptions: {
-      headerTitle: "Règles"
-    }
-  },   
-  Mainscreen: {
-    screen: Main,
-    navigationOptions: {
-      headerTitle: "Joueurs"
-    }
-  },
-  QuizIndex: {
-    screen: QuizIndex,
-    navigationOptions: {
-      headerTitle: "Quizzes"
-    }
-  },
-  Quiz: {
-    screen: Quiz,
-    navigationOptions: ({ navigation }) => ({
-      headerLeft: ()=> null,
-      headerTitle: navigation.getParam("title"),
-      headerTintColor: "#fff",
-      headerStyle: {
-        backgroundColor: navigation.getParam("color"),
-        borderBottomColor: navigation.getParam("color")
-      }
-    })
-  },
-  QuizResult: {
-    screen: QuizResult,
-    navigationOptions: {
-      headerLeft: ()=> null,
-      headerTitle: "Résultat"
-    }
-}});
+          <Stack.Screen 
+            name="QuizIndex" 
+            component={QuizIndex} 
+            options={{ title: "Quizzes" }} 
+          />
 
-const AppContainer = createAppContainer(MainStack);
+          <Stack.Screen 
+            name="Quiz" 
+            component={Quiz} 
+            options={({ route }) => ({
+              headerLeft: () => null,
+              title: route.params?.title || "Quiz",
+              headerTintColor: "#fff",
+              headerStyle: {
+                backgroundColor: route.params?.color || "#000",
+              }
+            })} 
+          />
 
-export default class App extends React.Component {
-
-  render () {
-    return (
-      <Provider store={store}>
-        <AppContainer />
-      </Provider>
-    )
-  }
+          <Stack.Screen 
+            name="QuizResult" 
+            component={QuizResult} 
+            options={{ 
+              headerLeft: () => null, 
+              title: "Résultat" 
+            }} 
+          />
+        </Stack.Navigator>
+      </NavigationContainer>
+    </Provider>
+  );
 }
-

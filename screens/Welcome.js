@@ -1,125 +1,56 @@
-
-export const welcomeAssets = require("../assets/welcome.png")
-
-/* Utils */
 import React from "react";
-import { Dimensions, SafeAreaView, Image, StyleSheet, StatusBar, Text} from "react-native";
-import { View } from "react-native";
-import { moderateScale, verticalScale } from "react-native-size-matters";
-import { Button } from "../components/Button";
+import { 
+  View, 
+  Text, 
+  SafeAreaView, 
+  Image, 
+  ImageBackground, 
+  StatusBar, 
+  TouchableOpacity 
+} from "react-native";
+import { styles, colors } from "../styles/Styles"; // Import du fichier ci-dessus
 
-const { height, width } = Dimensions.get("window");
+// Remplace par tes propres chemins d'assets
+const welcomeLogo = require("../assets/welcome.png");
+const courtBackground = require("../assets/tribunal_bg.png"); 
 
-const styles = StyleSheet.create({
-    container: {
-      backgroundColor: "#36B1F0",
-      flex: 1,
-      paddingBottom : 10
-    },
-    text: {
-      color: "#fff",
-      fontSize: 20,
-      textAlign: "center",
-      letterSpacing: -0.02,
-      fontWeight: "600"
-    },
-    title: {
-      color: "#fff",
-      fontSize: 28,
-      textAlign: "center",
-      letterSpacing: -0.02,
-      fontWeight: "600",
-      paddingBottom : 20
-    },
-    safearea: {
-      flex: 1,
-      justifyContent: "space-between"
-    }
-  });
-  
-
-  
-  
-  class Welcome extends React.Component {
-  
-    constructor (props) {
-      super(props)
-  
-    }
-     
-    render() {
-
-    
-  
-      return (
-        <View
-          style={styles.container}
-        >
-          <StatusBar barStyle="light-content" />
-          <SafeAreaView style={styles.safearea}>
-
-          <View flex={1} backgroundColor="white" justifyContent="flex-start">
-            <View height={height * 0.5} justifyContent="center" alignItems="center">
-
+const Welcome = ({ navigation }) => {
+  return (
+    <View style={styles.container}>
+      <StatusBar barStyle="light-content" />
+      
+      <ImageBackground 
+        source={courtBackground} 
+        style={styles.backgroundImage}
+        blurRadius={0} // Effet de flou sur le tribunal révolutionnaire
+      >
+        <View style={styles.overlay}>
+          <SafeAreaView style={styles.topSection}>
             <Image
-              source={welcomeAssets}
-              style={{ flex: 1,
-                width: 200,
-                height: 200}}
+              source={welcomeLogo}
+              style={styles.logo}
               resizeMode="contain"
             />
+            <Text style={styles.title}>Pour ou Contre</Text>
+            <View style={styles.accentLine} />
+            <Text style={styles.subtitle}>
+              L'application qui va vous cliver
+            </Text>
+          </SafeAreaView>
 
-            </View>
-            <View
-          style={{
-            backgroundColor: "#36B1F0",
-            height: 500 + height,
-            width: width * 2,
-            borderRadius: 1000,
-            position: "absolute",
-            alignSelf: "center",
-            top: 0.52 * height,
-          }}
-        />
-       <View
-          style={{
-            height: height * 0.35,
-            width: width,
-            position: "absolute",
-            bottom: 0,
-            alignSelf: "center",
-            padding: 20,
-            alignItems: "center",
-          }}
-        >
-          <Text style={styles.title} marginBottom="m" textAlign="center">
-            Pour ou Contre
-          </Text>
-
-          <Text
-          style={styles.text} 
-            color="white"
-            textAlign="center"
-            marginBottom="m"
-          >
-            L'application qui va vous cliver
-          </Text>
-          <Button
-                        
-                        text="Start"
-                        onPress={() => this.props.navigation.navigate('Rules')}
-                  />
-
-
+          <View style={styles.buttonContainer}>
+            <TouchableOpacity 
+              style={styles.button}
+              activeOpacity={0.8}
+              onPress={() => navigation.navigate('Rules')}
+            >
+              <Text style={styles.buttonText}>COMMENCER L'AVENTURE</Text>
+            </TouchableOpacity>
+          </View>
         </View>
-
-         </View>
-         </SafeAreaView>
-         </View>
-        );
+      </ImageBackground>
+    </View>
+  );
 };
-}
 
-export default Welcome
-
-
+export default Welcome;

@@ -66,7 +66,7 @@ class Main extends React.Component {
 
   render () {
     return (
-      <SafeAreaView style={styles.safearea}>
+      <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle = { styles.container }>
         <Text h4 style = { styles.title }>Participants</Text>
         {
@@ -79,6 +79,7 @@ class Main extends React.Component {
         }
         <Button
           buttonStyle = { styles.button }
+          titleStyle = {styles.buttonText}
           onPress = {
             () => {
               console.log('LENGTH: ' + this.props.inputs.array.length)
