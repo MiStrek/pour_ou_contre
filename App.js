@@ -21,10 +21,13 @@ export default function App() {
   return (
     <Provider store={store}>
       <NavigationContainer>
-        <Stack.Navigator 
+<Stack.Navigator 
           initialRouteName="Welcome"
           screenOptions={{
-            headerTitleAlign: 'center', // Optionnel : centre les titres sur Android comme sur iOS
+            // 1. Supprime le titre/header sur TOUTES les pages
+            headerShown: false, 
+            // 2. Empêche le retour en arrière par geste (glisser le doigt) sur iOS
+            gestureEnabled: false, 
           }}
         >
           <Stack.Screen 

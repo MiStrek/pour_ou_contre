@@ -86,7 +86,7 @@ export const mutateInput = (id, text, validity) => (dispatch, getState) => {
 
     const new_score = (getState().inputs.array[index][param] + score) || score
 
-    console.log('valeur: ' + getState().inputs.array[index][param])
+
 
     const input = {
       ...getState().inputs.array[index],

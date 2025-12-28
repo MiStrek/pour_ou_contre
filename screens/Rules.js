@@ -1,101 +1,60 @@
-
-/* Utils */
 import React from "react";
-import { Dimensions, SafeAreaView, Image, StyleSheet, StatusBar, Text} from "react-native";
-import { View } from "react-native";
-import { moderateScale, verticalScale } from "react-native-size-matters";
-import { Button } from "../components/Button";
+import { 
+  View, 
+  Text, 
+  SafeAreaView, 
+  Image, 
+  ImageBackground, 
+  StatusBar, 
+  TouchableOpacity,
+  ScrollView 
+} from "react-native";
+import { styles } from "../styles/Styles"; 
 
-const styles = StyleSheet.create({
-    container: {
-      backgroundColor: "#36B1F0",
-      flex: 1,
-      paddingBottom : 10,
-      justifyContent : "center",
-      alignItems : "center",
+const welcomeLogo = require("../assets/welcome.png");
+const courtBackground = require("../assets/tribunal_bg.png"); 
 
-    },
-    text: {
-      color: "#fff",
-      fontSize: 20,
-      textAlign: "center",
-      letterSpacing: -0.02,
-      fontWeight: "600"
-    },
-    title: {
-      color: "#fff",
-      fontSize: 28,
-      textAlign: "center",
-      letterSpacing: -0.02,
-      fontWeight: "600",
-      paddingBottom : 20
-    },
-    safearea: {
-      flex: 1,
-      justifyContent: "space-between",
-      alignItems : "center",
-    }
-  });
-  
+const Rules = ({ navigation }) => {
+  return (
+    <View style={styles.container}>
+      <StatusBar barStyle="light-content" />
+      
+      <ImageBackground source={courtBackground} style={styles.backgroundImage}>
+        <View style={styles.overlay}>
+          <SafeAreaView style={styles.topSection}>
+            <Image source={welcomeLogo} style={styles.logo} resizeMode="contain" />
+            
+            <Text style={styles.title}>Les Règles</Text>
+            <View style={styles.accentLine} />
+            
+            {/* On réduit l'espace ici en utilisant un marginTop contrôlé */}
+            <View style={{ marginTop: 30, paddingHorizontal: 10 }}>
+              <Text style={styles.subtitle}>
+                • Répondez par "Pour" ou "Contre".
+              </Text>
+              <Text style={[styles.subtitle, { marginTop: 10 }]}>
+                • Interdiction de débattre.
+              </Text>
+              <Text style={[styles.subtitle, { marginTop: 10 }]}>
+                • Assumez votre choix en silence.
+              </Text>
+            </View>
 
-  
-  
-  class Rules extends React.Component {
-  
-    constructor (props) {
-      super(props)
-  
-    }
-     
-    render() {
-
-    
-  
-      return (
-        <View
-          style={styles.container}
-        >
-          <StatusBar barStyle="light-content" />
-          <SafeAreaView style={styles.safearea}>
-
-
-
-
-          <Text style={styles.title} marginBottom="m" textAlign="center">
-            Les règles :
-          </Text>
-
-          <Text
-          style={styles.text} 
-          >
-            La règle du 'Pour ou Contre' est simple : vous devez répondre tour par tour à une série de questions, en répondant à l'affirmative ou à la négative.
-            </Text>
-
-            <Text
-          style={styles.text} 
-          >
-            Il est néanmoins formellement interdit de débattre sur chacune des questions et défendre sa réponse ou la nuancer.
-            </Text> 
-            <Text
-          style={styles.text} 
-          >
-            Il n'y a pas de demi-mesure, vous êtes pour ou contre. Pas de place pour les votants de l'UDF.
-            Assumez votre choix dans le silence et ne commentez pas le choix des autres. 
-            Vivez pleinement votre : gauchisme, faschsime, extrémisme, complotisme, communisme, libéralisme, royalisme, intégrisme ou souverainisme. 
-          </Text>
-          <Button
-                        
-                        text="   Jouer   "
-                        onPress={() => this.props.navigation.navigate('Mainscreen')}
-                  />
-
-
-         </SafeAreaView>
-         </View>
-        );
+            {/* Bouton remonté : on le met juste après le texte au lieu de tout en bas */}
+            <View style={{ marginTop: 40, alignItems: 'center', width: '100%' }}>
+              <TouchableOpacity 
+                style={styles.button}
+                activeOpacity={0.8}
+                onPress={() => navigation.navigate('Mainscreen')}
+              >
+                <Text style={styles.buttonText}>JOUER</Text>
+              </TouchableOpacity>
+            </View>
+          </SafeAreaView>
+        </View>
+      </ImageBackground>
+    </View>
+  );
 };
-}
 
-export default Rules
-
-
+export default Rules;
