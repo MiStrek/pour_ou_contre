@@ -60,6 +60,20 @@ const mapStateToProps = state => ({
 
 class QuizResult extends React.Component {
 
+  const trouverMaxTheme = (themesRef, scoresImportes) => {
+  // 1. On récupère uniquement les clés qui existent dans le référentiel thématique
+  const clesValides = Object.keys(themesRef);
+
+  // 2. On cherche la clé avec la valeur max parmi les scores filtrés
+  return clesValides.reduce((maxCle, cleActuelle) => {
+    // On récupère le score (on met 0 si la clé n'existe pas dans les scores importés)
+    const scoreActuel = scoresImportes[cleActuelle] || 0;
+    const scoreMax = scoresImportes[maxCle] || 0;
+
+    return scoreActuel > scoreMax ? cleActuelle : maxCle;
+  }, clesValides[0]); // On commence par la première clé du référentiel
+};
+  
   score_player = (player) => {
     const { Wokisme, Liberalisme, Nationalisme, Boboisme } = player;
     const max = Math.max(Wokisme, Liberalisme, Nationalisme, Boboisme);
